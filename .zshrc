@@ -15,7 +15,7 @@ export ZSH=/usr/share/oh-my-zsh/
 # if you installed the package oh-my-zsh-powerline-theme-git then you type here "powerline" as zsh theme
 #ZSH_THEME="amresh"
 #ZSH_THEME="agnoster"
-eval "$(oh-my-posh init zsh --config ~/.poshthemes/froczh.omp.json)"
+
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
 # a theme from this variable instead of looking in ~/.oh-my-zsh/themes/
@@ -552,3 +552,5 @@ alias personal='cp -Rf /personal/* ~'
 #cpufetch
 #colorscript random
 #hyfetch
+
+eval "$(oh-my-posh init zsh --config ~/.poshthemes/froczh.omp.json)"
