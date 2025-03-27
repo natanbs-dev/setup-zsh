@@ -54,7 +54,7 @@ O arquivo de configuração do Zsh é o `~/.zshrc`. Edite-o (se não existir, cr
     
     ```bash
     # Inicializa o oh‑my‑posh com o tema atomic
-    eval "$(oh-my-posh --init --shell zsh --config $HOME/.poshthemes/theme.omp.json)"
+    eval "$(oh-my-posh --init --shell zsh --config $HOME/.poshthemes/atomic.omp.json)"
     ```
 
 ## temas interessantes:
