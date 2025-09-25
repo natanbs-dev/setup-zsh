@@ -62,8 +62,9 @@ O arquivo de configuração do Zsh é o `~/.zshrc`. Edite-o (se não existir, cr
 **zsh**
 - jonathan
 
-**oh my posh**
+**oh my posh:**
+- plague
+- jblab_2021
 - devious-diamonds
 - cloud-native-azure
 - froczh
-- plague
