@@ -9,8 +9,29 @@ apt | pacman | dnf | zypper
 - zsh
 - wget
 - curl
+- git
 
-**setup do oh my posh**
+**oh my zsh setup**
+
+- instale as dependências antes de tudo:
+
+```bash
+sudo apt install -y git curl zsh
+```
+
+- clone e execute o install.sh oficial do site:
+
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+- instale demais plugins (opcional)
+
+```bash
+sudo apt install -y zsh-autosuggestions zsh-common
+```
+
+**oh my posh setup**
 
 ```bash
 curl -s https://ohmyposh.dev/install.sh | bash -s -- -d /usr/local/bin
