@@ -61,6 +61,7 @@ O arquivo de configuração do Zsh é o `~/.zshrc`. Edite-o (se não existir, cr
 
 **zsh**
 - jonathan
+- robbyrussell
 
 **oh my posh:**
 - plague
