@@ -1,4 +1,4 @@
-# setup-zsh_oh-my-posh
+# setup oh-my-zsh && oh-my-posh
 
 ## setup no linux
 
