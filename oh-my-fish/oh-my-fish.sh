@@ -1,3 +1,7 @@
+## instalação 
+
+sudo pacman -Syy fish
+
 ## config
 
 curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install | fish
