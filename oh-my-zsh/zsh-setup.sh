@@ -11,4 +11,6 @@ sudo apt install -y curl git wget vim
 echo "curl do repositorio oficial do zsh"
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
+#definir o zsh como terminal padrão
+chsh -s /usr/bin/zsh
 

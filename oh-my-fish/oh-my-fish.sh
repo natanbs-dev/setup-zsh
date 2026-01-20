@@ -12,4 +12,7 @@ if status --is-interactive && type -q fastfetch
    fastfetch --config garuda-config.jsonc
 end
 
+## definir fish como padrao
+chsh -s /usr/bin/fish
+
 
